@@ -1,0 +1,10 @@
+
+Price List
+-----------
+Smart CPU : 1e-07
+Dumb CPU : 1e+08
+
+Entries
+-------
+bad word : don't say it
+good word : say it as much as possible
